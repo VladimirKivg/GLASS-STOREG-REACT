@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "RB 1",
+    "price": 299,
+    "imgUrl": "/images/805289526575__STD__shad__bk.webp"
+  },
+  {
+    "id": 2,
+    "name": "RB 2",
+    "price": 299,
+    "imgUrl": "/images/805289526575__STD__shad__bk (1).png"
+  },
+  {
+    "id": 3,
+    "name": "RB 3",
+    "price": 299,
+    "imgUrl": "/images/805289526575__STD__shad__cfr.png"
+  },
+  {
+    "id": 4,
+    "name": "RB 4",
+    "price": 299,
+    "imgUrl": "/images/805289526612__STD__shad__cfr.png"
+  },
+  {
+    "id": 5,
+    "name": "RB 5",
+    "price": 299,
+    "imgUrl": "/images/8053672495683__STD__shad__bk.png"
+  }
+]
